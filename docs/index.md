@@ -8,14 +8,9 @@ This site is where I document problems I have encountered and wrestled with. I h
 
 ## [Subway Challenge: Beijing Edition](subway.md)
 
-<figure>
-
 [![Beijing Subway System Map.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Beijing_Subway_System_Map.svg/1280px-Beijing_Subway_System_Map.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)](https://commons.wikimedia.org/wiki/File:Beijing_Subway_System_Map.svg#/media/File:Beijing_Subway_System_Map.svg)
-<figcaption>
 
-By [Painjet](https://commons.wikimedia.org/wiki/User:Painjet) By [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) By [Link](https://commons.wikimedia.org/w/index.php?curid=90207481) 
-</figcaption>
-</figure>
+By [Painjet](https://commons.wikimedia.org/wiki/User:Painjet) By [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) By [Link](https://commons.wikimedia.org/w/index.php?curid=90207481)
 
 Thirty lines, 541 stations, 909 kilometers of tracks, 18 hours. How much of the biggest subway system in the world can you visit with one ticket?
 
