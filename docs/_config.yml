@@ -1,5 +1,5 @@
 url: https://waterclassifier.github.io
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
@@ -15,4 +15,4 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-title: This is the title of my website
+title: Yifan Z
