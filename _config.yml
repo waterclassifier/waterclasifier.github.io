@@ -1,5 +1,5 @@
 url: https://waterclassifier.github.io
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-slate
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
