@@ -1,7 +1,6 @@
 url: https://waterclassifier.github.io
 theme: jekyll-theme-cayman
-title: A Stack of Tin Cans
-description: placeholder
+title: "A Stack of Tin Cans"
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
