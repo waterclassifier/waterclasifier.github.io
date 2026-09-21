@@ -16,7 +16,12 @@ Unfortunately for me (and fortunately for the subway workers), the Beijing Subwa
 
 What this means is that visiting ALL 541 stations of the Beijing Subway in one run is almost certainly impossible. With significantly more length and more stations than the MTA, visiting every station of the Beijing Subway would almost certainly take more time than visiting every station of MTA, and the current record of the MTA Subway Challenge is [just over 24 hours](https://en.wikipedia.org/wiki/Subway_Challenge#472_stations), held by Kate Jones, already far over our 18 hour limit.
 
+From another perspective, lets suppose we are to visit all 541 stations, and we will suppose we have 19 hours to do it. Then on average, we must visit one new station every 2.11 minutes. In comparison, line 10, a downtown line with stations relatively close to each other, takes around 105 minutes to hit all 45 stations, with an average of 2.33 minutes per station. Therefore, even in the hypothetical scenario where line 10 engulfs the entire Beijing Subway, and we do not need to ever backtrack or transfer, we still would not have enough time to visit all stations.
+
+[Insert another XKCD drawing here: proposed new Beijing Subway routes, featuring line 10^10]
+
 Therefore, we will change our objective slightly. Instead of visiting all stations in the shortest time possible, our goal would be to visit as many different stations as possible in a single run - a single day. From an optimization perspective, we are attempting the *dual* of the original challenge.
 
-Lastly, we need to define what counts as visiting a station. Borrowing from MTA rules, I will count a station as visited if the train I am on stops at it. If I take a [skip-stop](https://en.wikipedia.org/wiki/Skip-stop) train that flies through a station without stopping, that does not count as visiting it. On the flip side, I do not have to physically disembark and step in a station to visit it. This is for practical reasons, so that I do not lose my hard-fought seat on a rush hour train, or worse, not be able to squeeze back onto the packed train.
+Lastly, we need to define what counts as visiting a station. Borrowing from MTA rules, I will count a station as visited if the train I am on stops at it. If I take a [skip-stop](https://en.wikipedia.org/wiki/Skip-stop) train that flies through a station without stopping, that does not count as visiting it. On the flip side, I do not have to physically disembark and step in a station to visit it. This is so that I do not lose my hard-fought seat on a rush hour train, or worse, not be able to squeeze back onto the packed train at all.
 
+## 
