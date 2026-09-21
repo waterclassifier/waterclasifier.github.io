@@ -1,5 +1,5 @@
 ---
-title: Three rightwards arrows on a Yellow Diamond
+title: Yifan Z
 ---
 
 # Subway Challenge: Beijing Edition

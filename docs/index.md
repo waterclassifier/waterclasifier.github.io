@@ -1,7 +1,3 @@
----
-title: White Square on a Green Background
----
-
 # Hello / 你好!
 
 Yifan here! I am an engineer and mathematician currently studying robotics at [GRASP lab](www.grasp.upenn.edu), University of Pennsylvania. I have completed an undergrad degree in Math and Computer Science at the University of Illinois Urbana-Champaign.
