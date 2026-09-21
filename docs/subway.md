@@ -1,3 +1,7 @@
+---
+Three rightwards arrows on a Yellow Diamond
+---
+
 # Subway Challenge: Beijing Edition
 
 ## Setting the Stage
