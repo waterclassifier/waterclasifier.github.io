@@ -7,3 +7,5 @@ _site/
 vendor/
 # Ignore local VSCode settings
 .vscode/
+# Macos nonsense
+.DS_Store
