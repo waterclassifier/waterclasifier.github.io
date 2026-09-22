@@ -9,7 +9,7 @@ This site is where I document problems I have encountered and wrestled with. I h
 ## [Subway Challenge: Beijing Edition](subway.md)
 
 <a href="https://commons.wikimedia.org/wiki/File:Beijing_Subway_System_Map.svg#/media/File:Beijing_Subway_System_Map.svg">
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Beijing_Subway_System_Map.svg/1280px-Beijing_Subway_System_Map.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Beijing Subway System Map.svg" style="width: 20em">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Beijing_Subway_System_Map.svg/1280px-Beijing_Subway_System_Map.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Beijing Subway System Map.svg">
 </a>
 <p style="font-size: 0.8em">
     By <a href="//commons.wikimedia.org/wiki/User:Painjet" title="User:Painjet">Painjet</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90207481">Link</a>
